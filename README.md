@@ -55,7 +55,7 @@ Exam/
 
 ## 🧑‍💻 Author
 
-Made by [Your Name] — for learning and practicing C# OOP.
+Made by [Dina Ragab] — for learning and practicing C# OOP.
 
 ---
 
